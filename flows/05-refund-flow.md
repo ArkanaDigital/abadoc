@@ -121,5 +121,5 @@ Flow refund mencakup proses dari refund order creation hingga point reversal dan
 3. **Grace Period**: Add grace period untuk membership downgrade
 
 Lihat dokumentasi berikutnya:
-- `../mitigation/06-phase1-detailed-fixes.md` - Detail fixes
-- `../issues/02-data-integrity-issues.md` - Data integrity issues
+- [../mitigation/06-phase1-detailed-fixes.md](../mitigation/06-phase1-detailed-fixes.md) - Detail fixes
+- [../issues/02-data-integrity-issues.md](../issues/02-data-integrity-issues.md) - Data integrity issues

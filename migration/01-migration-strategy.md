@@ -22,7 +22,7 @@ Migrasi dari sistem Python ke Rust engine harus dilakukan secara bertahap dan ha
 4. **Fase 4**: Test di staging
 5. **Fase 5**: Rollout production dengan data yang sudah ter-update di Rust
 
-Lihat detail di: `02-phased-approach.md` dan `06-etl-implementation.md`
+Lihat detail di: [02-phased-approach.md](02-phased-approach.md) dan [06-etl-implementation.md](06-etl-implementation.md)
 
 ---
 
@@ -371,6 +371,6 @@ Week 15+:   Optimization
 5. **Cost**: < current system cost
 
 Lihat dokumentasi berikutnya:
-- `02-phased-approach.md` - Detail pendekatan bertahap
-- `03-data-migration.md` - Detail migrasi data
-- `04-rollback-plan.md` - Detail rencana rollback
+- [02-phased-approach.md](02-phased-approach.md) - Detail pendekatan bertahap
+- [03-data-migration.md](03-data-migration.md) - Detail migrasi data
+- [04-rollback-plan.md](04-rollback-plan.md) - Detail rencana rollback

@@ -18,15 +18,15 @@ Fase 4: Staging Testing (2-4 weeks)
 Fase 5: Production Rollout (2-4 weeks)
 ```
 
-**Lihat Executive Summary**: `07-phase1-executive-summary.md`
+**Lihat Executive Summary**: [07-phase1-executive-summary.md](07-phase1-executive-summary.md)
 
 ---
 
 ## Fase 1: Perbaiki Semua Flow di Odoo (DETAIL)
 
-**Detail Issue Analysis**: Lihat `../mitigation/06-phase1-detailed-fixes.md`
-**Potensi Issues**: Lihat `../mitigation/07-potential-future-issues.md`
-**Executive Summary**: Lihat `07-phase1-executive-summary.md`
+**Detail Issue Analysis**: Lihat [../mitigation/06-phase1-detailed-fixes.md](../mitigation/06-phase1-detailed-fixes.md)
+**Potensi Issues**: Lihat [../mitigation/07-potential-future-issues.md](../mitigation/07-potential-future-issues.md)
+**Executive Summary**: Lihat [07-phase1-executive-summary.md](07-phase1-executive-summary.md)
 
 ## Fase 1: Perbaiki Semua Flow di Odoo
 
@@ -40,7 +40,7 @@ Memperbaiki semua issue di sistem Odoo sampai tidak ada masalah lagi sebelum mig
 
 #### 1.1 Fix Critical Issues (P0)
 
-**Detail Issue Analysis**: Lihat `../mitigation/06-phase1-detailed-fixes.md`
+**Detail Issue Analysis**: Lihat [../mitigation/06-phase1-detailed-fixes.md](../mitigation/06-phase1-detailed-fixes.md)
 
 - [ ] **Fix 1.1**: Single source of truth untuk point balance
 - [ ] **Fix 1.2**: Atomic balance update dengan SQL
@@ -61,7 +61,7 @@ Memperbaiki semua issue di sistem Odoo sampai tidak ada masalah lagi sebelum mig
 
 #### 1.2 Fix High Priority Issues (P1)
 
-**Detail Issue Analysis**: Lihat `../mitigation/06-phase1-detailed-fixes.md`
+**Detail Issue Analysis**: Lihat [../mitigation/06-phase1-detailed-fixes.md](../mitigation/06-phase1-detailed-fixes.md)
 
 - [ ] **Fix 4.1**: Lock mechanism dengan flag untuk discount recalculation
 - [ ] **Fix 4.2**: Single calculation pass dengan priority
@@ -77,7 +77,7 @@ Memperbaiki semua issue di sistem Odoo sampai tidak ada masalah lagi sebelum mig
 
 #### 1.3 Code Quality Improvements
 
-**Potensi Issues**: Lihat `../mitigation/07-potential-future-issues.md`
+**Potensi Issues**: Lihat [../mitigation/07-potential-future-issues.md](../mitigation/07-potential-future-issues.md)
 
 - [ ] Remove quick fixes (FIXME comments)
 - [ ] Remove debug code (debug variables)
@@ -768,7 +768,7 @@ Jika ada critical issue:
 
 ## Dokumentasi Terkait
 
-- `06-etl-implementation.md` - **Detail implementasi ETL untuk Fase 2**
-- `03-data-migration.md` - Detail data migration
-- `04-rollback-plan.md` - Detail rollback plan
-- `05-testing-plan.md` - Detail testing plan
+- [06-etl-implementation.md](06-etl-implementation.md) - **Detail implementasi ETL untuk Fase 2**
+- [03-data-migration.md](03-data-migration.md) - Detail data migration
+- [04-rollback-plan.md](04-rollback-plan.md) - Detail rollback plan
+- [05-testing-plan.md](05-testing-plan.md) - Detail testing plan

@@ -49,5 +49,5 @@ Method bisa dipanggil multiple times concurrently.
 **Fix**: Lock mechanism dengan flag
 
 Lihat dokumentasi berikutnya:
-- `04-calculation-errors.md` - Calculation errors
-- `../mitigation/06-phase1-detailed-fixes.md` - Detail fixes
+- [04-calculation-errors.md](04-calculation-errors.md) - Calculation errors
+- [../mitigation/06-phase1-detailed-fixes.md](../mitigation/06-phase1-detailed-fixes.md) - Detail fixes

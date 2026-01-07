@@ -167,5 +167,5 @@ Flow aplikasi diskon mencakup proses dari reward selection hingga discount calcu
 3. **Validation**: Validate total discount before apply
 
 Lihat dokumentasi berikutnya:
-- `05-refund-flow.md` - Flow refund processing
-- `../mitigation/06-phase1-detailed-fixes.md` - Detail fixes
+- [05-refund-flow.md](05-refund-flow.md) - Flow refund processing
+- [../mitigation/06-phase1-detailed-fixes.md](../mitigation/06-phase1-detailed-fixes.md) - Detail fixes

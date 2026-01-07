@@ -385,5 +385,5 @@ def on_order_created(self, order):
 - **Jaeger**: Distributed tracing
 
 Lihat dokumentasi berikutnya:
-- `../rust-engine/06-integration.md` - Detail integrasi Rust engine
+- [../rust-engine/06-integration.md](../rust-engine/06-integration.md) - Detail integrasi Rust engine
 - `../migration/` - Rencana migrasi

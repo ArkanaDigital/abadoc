@@ -356,5 +356,5 @@ latest_point_history = point_history_obj.search([
 5. **Sync Failure**: Any failure
 
 Lihat dokumentasi berikutnya:
-- `06-phase1-detailed-fixes.md` - Detail fixes untuk current issues
+- [06-phase1-detailed-fixes.md](06-phase1-detailed-fixes.md) - Detail fixes untuk current issues
 - `../rust-engine/` - Solusi jangka panjang

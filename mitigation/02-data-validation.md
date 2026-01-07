@@ -27,5 +27,5 @@ Dokumen ini menjelaskan strategi validasi data untuk memastikan data integrity.
 - Membership consistency
 
 Lihat dokumentasi berikutnya:
-- `03-transaction-safety.md` - Transaction safety
-- `06-phase1-detailed-fixes.md` - Detail fixes dengan validation
+- [03-transaction-safety.md](03-transaction-safety.md) - Transaction safety
+- [06-phase1-detailed-fixes.md](06-phase1-detailed-fixes.md) - Detail fixes dengan validation

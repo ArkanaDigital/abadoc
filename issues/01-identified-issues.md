@@ -376,9 +376,9 @@ Berdasarkan analisa code, ditemukan evidence kuat untuk masalah-masalah ini:
    - Error handling untuk sync failures
 
 Lihat dokumentasi berikutnya:
-- `06-real-world-cases.md` - **Kasus real-world dari analisa code**
-- `07-code-analysis-summary.md` - **Ringkasan analisa code**
-- `02-data-integrity-issues.md` - Detail data integrity issues
-- `03-race-condition-issues.md` - Detail race condition issues
-- `04-calculation-errors.md` - Detail calculation errors
+- [06-real-world-cases.md](06-real-world-cases.md) - **Kasus real-world dari analisa code**
+- [07-code-analysis-summary.md](07-code-analysis-summary.md) - **Ringkasan analisa code**
+- [02-data-integrity-issues.md](02-data-integrity-issues.md) - Detail data integrity issues
+- [03-race-condition-issues.md](03-race-condition-issues.md) - Detail race condition issues
+- [04-calculation-errors.md](04-calculation-errors.md) - Detail calculation errors
 - `../mitigation/` - Solusi untuk setiap masalah

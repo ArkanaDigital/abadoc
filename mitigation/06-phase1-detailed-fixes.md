@@ -1199,6 +1199,6 @@ def _check_points_already_processed(self, order):
 4. Week 7-8: Monitoring & fine-tuning
 
 Lihat dokumentasi berikutnya:
-- `01-immediate-fixes.md` - Quick fixes
-- `02-data-validation.md` - Data validation
-- `03-transaction-safety.md` - Transaction safety
+- [01-immediate-fixes.md](01-immediate-fixes.md) - Quick fixes
+- [02-data-validation.md](02-data-validation.md) - Data validation
+- [03-transaction-safety.md](03-transaction-safety.md) - Transaction safety

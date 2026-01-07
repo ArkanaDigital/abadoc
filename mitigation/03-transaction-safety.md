@@ -25,5 +25,5 @@ Dokumen ini menjelaskan strategi untuk memastikan transaction safety dan data co
 - Prevent double processing
 
 Lihat dokumentasi berikutnya:
-- `04-error-handling.md` - Error handling
-- `06-phase1-detailed-fixes.md` - Detail fixes
+- [04-error-handling.md](04-error-handling.md) - Error handling
+- [06-phase1-detailed-fixes.md](06-phase1-detailed-fixes.md) - Detail fixes

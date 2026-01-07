@@ -275,6 +275,6 @@ Fase 1 adalah fase kritis untuk memperbaiki semua issue di sistem Odoo sebelum m
 ## Dokumentasi Detail
 
 Lihat dokumentasi lengkap di:
-- `../mitigation/06-phase1-detailed-fixes.md` - Detail issue analysis dan fixes
-- `../mitigation/07-potential-future-issues.md` - Potensi issues kedepannya
-- `02-phased-approach.md` - Overall migration plan
+- [../mitigation/06-phase1-detailed-fixes.md](../mitigation/06-phase1-detailed-fixes.md) - Detail issue analysis dan fixes
+- [../mitigation/07-potential-future-issues.md](../mitigation/07-potential-future-issues.md) - Potensi issues kedepannya
+- [02-phased-approach.md](02-phased-approach.md) - Overall migration plan

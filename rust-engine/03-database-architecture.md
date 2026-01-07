@@ -465,6 +465,16 @@ pub async fn get_sync_stats(&self) -> SyncStats {
 }
 ```
 
+## Queue Integration
+
+Queue system menggunakan PostgreSQL NOTIFY/LISTEN untuk:
+- Event publishing
+- Worker coordination
+- Async processing
+
+Lihat detail di: [07-queue-architecture.md](07-queue-architecture.md)
+
 Lihat dokumentasi berikutnya:
-- `04-integration-flow.md` - Detail flow integrasi
-- `05-reporting-architecture.md` - Arsitektur reporting
+- [04-integration-flow.md](04-integration-flow.md) - Detail flow integrasi
+- [05-reporting-architecture.md](05-reporting-architecture.md) - Arsitektur reporting
+- [07-queue-architecture.md](07-queue-architecture.md) - Queue architecture

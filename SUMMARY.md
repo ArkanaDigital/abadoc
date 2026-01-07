@@ -83,7 +83,7 @@ Berdasarkan analisa code sebulan terakhir, ditemukan:
 
 **Kesimpulan**: Masalah-masalah yang teridentifikasi **sangat real** dan **sering terjadi** di production, bukan hanya theoretical issues.
 
-Lihat detail di: `issues/06-real-world-cases.md` dan `issues/07-code-analysis-summary.md`
+Lihat detail di: [issues/06-real-world-cases.md](issues/06-real-world-cases.md) dan [issues/07-code-analysis-summary.md](issues/07-code-analysis-summary.md)
 
 ## Rekomendasi
 
@@ -137,26 +137,33 @@ documentation/
 │   ├── 02-data-integrity-issues.md
 │   ├── 03-race-condition-issues.md
 │   ├── 04-calculation-errors.md
-│   └── 05-sync-issues.md
+│   ├── 05-sync-issues.md
+│   ├── 06-real-world-cases.md
+│   └── 07-code-analysis-summary.md
 ├── mitigation/                  # Solusi dan perbaikan
 │   ├── 01-immediate-fixes.md
 │   ├── 02-data-validation.md
 │   ├── 03-transaction-safety.md
 │   ├── 04-error-handling.md
-│   └── 05-testing-strategy.md
+│   ├── 05-testing-strategy.md
+│   ├── 06-phase1-detailed-fixes.md
+│   └── 07-potential-future-issues.md
 ├── rust-engine/                 # Plan Rust engine
 │   ├── 01-overview.md
 │   ├── 02-architecture.md
-│   ├── 03-api-design.md
-│   ├── 04-data-structures.md
-│   ├── 05-performance.md
-│   └── 06-integration.md
+│   ├── 03-database-architecture.md
+│   ├── 04-integration-flow.md
+│   ├── 05-reporting-architecture.md
+│   ├── 06-integration.md
+│   └── 07-queue-architecture.md
 └── migration/                   # Rencana migrasi
     ├── 01-migration-strategy.md
     ├── 02-phased-approach.md
     ├── 03-data-migration.md
     ├── 04-rollback-plan.md
-    └── 05-testing-plan.md
+    ├── 05-testing-plan.md
+    ├── 06-etl-implementation.md
+    └── 07-phase1-executive-summary.md
 ```
 
 ## Next Steps

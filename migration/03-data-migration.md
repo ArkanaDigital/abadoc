@@ -25,5 +25,5 @@ Dokumen ini menjelaskan detail strategi migrasi data dari Odoo ke Rust engine.
 - Fix discrepancies
 
 Lihat dokumentasi berikutnya:
-- `04-rollback-plan.md` - Rollback plan
-- `06-etl-implementation.md` - ETL implementation detail
+- [04-rollback-plan.md](04-rollback-plan.md) - Rollback plan
+- [06-etl-implementation.md](06-etl-implementation.md) - ETL implementation detail

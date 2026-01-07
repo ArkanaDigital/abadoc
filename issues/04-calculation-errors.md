@@ -41,5 +41,5 @@ Balance calculated dari `point_moves` vs `point_history` bisa berbeda.
 **Impact**: Wrong balance
 
 Lihat dokumentasi berikutnya:
-- `05-sync-issues.md` - Sync issues
-- `../mitigation/06-phase1-detailed-fixes.md` - Detail fixes
+- [05-sync-issues.md](05-sync-issues.md) - Sync issues
+- [../mitigation/06-phase1-detailed-fixes.md](../mitigation/06-phase1-detailed-fixes.md) - Detail fixes

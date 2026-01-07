@@ -158,6 +158,6 @@ Extends dengan:
 ## Next Steps
 
 Lihat dokumentasi berikutnya:
-- `02-module-structure.md` - Detail struktur modul
-- `03-data-model.md` - Detail model data
-- `04-integration-points.md` - Titik integrasi
+- [02-module-structure.md](02-module-structure.md) - Detail struktur modul
+- [03-data-model.md](03-data-model.md) - Detail model data
+- [04-integration-points.md](04-integration-points.md) - Titik integrasi

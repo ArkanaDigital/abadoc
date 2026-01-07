@@ -544,10 +544,10 @@ Queue system menggunakan PostgreSQL NOTIFY/LISTEN untuk async processing:
 - Retry mechanisms
 - Dead letter queue
 
-Lihat detail di: `07-queue-architecture.md`
+Lihat detail di: [07-queue-architecture.md](07-queue-architecture.md)
 
 Lihat dokumentasi berikutnya:
-- `03-database-architecture.md` - Database architecture
-- `04-integration-flow.md` - Integration flow
-- `05-reporting-architecture.md` - Reporting architecture
-- `07-queue-architecture.md` - Queue architecture
+- [03-database-architecture.md](03-database-architecture.md) - Database architecture
+- [04-integration-flow.md](04-integration-flow.md) - Integration flow
+- [05-reporting-architecture.md](05-reporting-architecture.md) - Reporting architecture
+- [07-queue-architecture.md](07-queue-architecture.md) - Queue architecture

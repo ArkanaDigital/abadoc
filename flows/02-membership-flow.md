@@ -347,5 +347,5 @@ class MembershipLevelPath(models.Model):
    - Prevent race conditions
 
 Lihat dokumentasi berikutnya:
-- `03-point-calculation-flow.md` - Detail point calculation
-- `05-refund-flow.md` - Refund processing
+- [03-point-calculation-flow.md](03-point-calculation-flow.md) - Detail point calculation
+- [05-refund-flow.md](05-refund-flow.md) - Refund processing

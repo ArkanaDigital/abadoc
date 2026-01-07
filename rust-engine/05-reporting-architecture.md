@@ -623,5 +623,5 @@ impl DataRetentionPolicy {
 ```
 
 Lihat dokumentasi berikutnya:
-- `06-integration.md` - Detail integrasi dengan Odoo
+- [06-integration.md](06-integration.md) - Detail integrasi dengan Odoo
 - `../migration/` - Rencana migrasi reporting

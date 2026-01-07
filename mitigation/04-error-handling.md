@@ -28,5 +28,5 @@ Dokumen ini menjelaskan strategi error handling yang comprehensive.
 - Idempotency
 
 Lihat dokumentasi berikutnya:
-- `05-testing-strategy.md` - Testing strategy
-- `06-phase1-detailed-fixes.md` - Detail fixes
+- [05-testing-strategy.md](05-testing-strategy.md) - Testing strategy
+- [06-phase1-detailed-fixes.md](06-phase1-detailed-fixes.md) - Detail fixes

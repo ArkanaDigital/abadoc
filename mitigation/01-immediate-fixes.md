@@ -296,7 +296,7 @@ Jika fix menyebabkan masalah:
 
 ## Dokumentasi Terkait
 
-- `06-phase1-detailed-fixes.md` - **Detail lengkap issue analysis dan fixes untuk Fase 1**
-- `07-potential-future-issues.md` - **Potensi issue kedepannya dan prevention**
-- `02-data-validation.md` - Validasi data
-- `03-transaction-safety.md` - Keamanan transaksi
+- [06-phase1-detailed-fixes.md](06-phase1-detailed-fixes.md) - **Detail lengkap issue analysis dan fixes untuk Fase 1**
+- [07-potential-future-issues.md](07-potential-future-issues.md) - **Potensi issue kedepannya dan prevention**
+- [02-data-validation.md](02-data-validation.md) - Validasi data
+- [03-transaction-safety.md](03-transaction-safety.md) - Keamanan transaksi

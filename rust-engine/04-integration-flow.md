@@ -503,5 +503,15 @@ service LoyaltyService {
 }
 ```
 
+## Queue Integration
+
+Queue system terintegrasi dalam semua flow:
+- Order processing → Queue → Async workers
+- Point operations → Queue → Sync workers
+- Sync operations → Queue → Odoo sync workers
+
+Lihat detail di: [07-queue-architecture.md](07-queue-architecture.md)
+
 Lihat dokumentasi berikutnya:
-- `05-reporting-architecture.md` - Arsitektur reporting detail
+- [05-reporting-architecture.md](05-reporting-architecture.md) - Arsitektur reporting detail
+- [07-queue-architecture.md](07-queue-architecture.md) - Queue architecture dengan pgnotify

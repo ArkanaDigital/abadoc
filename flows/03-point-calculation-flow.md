@@ -208,6 +208,6 @@ Flow perhitungan poin mencakup proses dari order creation hingga point earning d
 3. **Atomic Operations**: Use transactions untuk ensure consistency
 
 Lihat dokumentasi berikutnya:
-- `04-discount-application-flow.md` - Flow discount application
-- `05-refund-flow.md` - Flow refund processing
-- `../mitigation/06-phase1-detailed-fixes.md` - Detail fixes
+- [04-discount-application-flow.md](04-discount-application-flow.md) - Flow discount application
+- [05-refund-flow.md](05-refund-flow.md) - Flow refund processing
+- [../mitigation/06-phase1-detailed-fixes.md](../mitigation/06-phase1-detailed-fixes.md) - Detail fixes

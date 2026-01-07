@@ -317,5 +317,5 @@ Continue/Abort
    - Comprehensive tests
 
 Lihat dokumentasi berikutnya:
-- `06-real-world-cases.md` - Detail kasus real-world
+- [06-real-world-cases.md](06-real-world-cases.md) - Detail kasus real-world
 - `../mitigation/` - Solusi untuk masalah-masalah ini

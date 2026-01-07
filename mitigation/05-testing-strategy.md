@@ -31,5 +31,5 @@ Dokumen ini menjelaskan comprehensive testing strategy untuk memastikan quality.
 - Check integrity
 
 Lihat dokumentasi berikutnya:
-- `06-phase1-detailed-fixes.md` - Detail fixes dengan testing examples
-- `../migration/05-testing-plan.md` - Migration testing plan
+- [06-phase1-detailed-fixes.md](06-phase1-detailed-fixes.md) - Detail fixes dengan testing examples
+- [../migration/05-testing-plan.md](../migration/05-testing-plan.md) - Migration testing plan

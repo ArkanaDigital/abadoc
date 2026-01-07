@@ -31,5 +31,5 @@ Dokumen ini menjelaskan comprehensive testing plan untuk setiap fase migrasi.
 - Test rollback procedures
 
 Lihat dokumentasi berikutnya:
-- `06-etl-implementation.md` - ETL testing
-- `07-phase1-executive-summary.md` - Phase 1 testing
+- [06-etl-implementation.md](06-etl-implementation.md) - ETL testing
+- [07-phase1-executive-summary.md](07-phase1-executive-summary.md) - Phase 1 testing

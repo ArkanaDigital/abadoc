@@ -209,4 +209,4 @@ Database (PostgreSQL)
 5. **Dependency Injection**: Reduce tight coupling
 
 Lihat dokumentasi berikutnya:
-- `03-data-model.md` - Detail model data dan relasi
+- [03-data-model.md](03-data-model.md) - Detail model data dan relasi

@@ -42,5 +42,5 @@ Data inconsistency
 3. **Coordination**: Proper state management
 
 Lihat dokumentasi berikutnya:
-- `06-real-world-cases.md` - Real-world cases
-- `../mitigation/06-phase1-detailed-fixes.md` - Detail fixes
+- [06-real-world-cases.md](06-real-world-cases.md) - Real-world cases
+- [../mitigation/06-phase1-detailed-fixes.md](../mitigation/06-phase1-detailed-fixes.md) - Detail fixes

@@ -201,9 +201,20 @@ Rust Promotion & Membership Engine adalah solusi enterprise-grade yang dirancang
 
 ## Next Steps
 
+## Queue System
+
+Rust engine menggunakan **PostgreSQL NOTIFY/LISTEN** untuk queue system:
+- **No External Dependencies**: Built-in PostgreSQL feature
+- **ACID Guarantees**: Transaction-based delivery
+- **Reliable**: Guaranteed delivery dalam transaction
+- **Efficient**: Low overhead
+
+Lihat detail di: [07-queue-architecture.md](07-queue-architecture.md)
+
 Lihat dokumentasi berikutnya:
-- `02-architecture.md` - Detail arsitektur
-- `03-api-design.md` - Desain API
-- `04-data-structures.md` - Struktur data
-- `05-performance.md` - Optimasi performa
-- `06-integration.md` - Integrasi dengan Odoo
+- [02-architecture.md](02-architecture.md) - Detail arsitektur
+- [03-database-architecture.md](03-database-architecture.md) - Database architecture
+- [04-integration-flow.md](04-integration-flow.md) - Integration flow
+- [05-reporting-architecture.md](05-reporting-architecture.md) - Reporting architecture
+- [06-integration.md](06-integration.md) - Integrasi dengan Odoo
+- [07-queue-architecture.md](07-queue-architecture.md) - Queue architecture dengan pgnotify

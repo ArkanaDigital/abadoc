@@ -275,6 +275,6 @@ def calculate_discount_percentage(self, rec_line, qty_count, disc, total_count, 
    - Enable discount history
 
 Lihat dokumentasi berikutnya:
-- `02-membership-flow.md` - Flow membership
-- `03-point-calculation-flow.md` - Flow perhitungan poin
-- `04-discount-application-flow.md` - Detail discount application
+- [02-membership-flow.md](02-membership-flow.md) - Flow membership
+- [03-point-calculation-flow.md](03-point-calculation-flow.md) - Flow perhitungan poin
+- [04-discount-application-flow.md](04-discount-application-flow.md) - Detail discount application

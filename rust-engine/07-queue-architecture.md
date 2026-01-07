@@ -750,6 +750,6 @@ async fn main() -> Result<()> {
 ```
 
 Lihat dokumentasi berikutnya:
-- `04-integration-flow.md` - Integration flow dengan queue
-- `03-database-architecture.md` - Database architecture
-- `06-integration.md` - Detail integration
+- [04-integration-flow.md](04-integration-flow.md) - Integration flow dengan queue
+- [03-database-architecture.md](03-database-architecture.md) - Database architecture
+- [06-integration.md](06-integration.md) - Detail integration

@@ -351,5 +351,5 @@ Validation di-comment out berarti:
 4. **Long-term**: Migrate ke Rust engine dengan proper architecture
 
 Lihat dokumentasi berikutnya:
-- `../mitigation/01-immediate-fixes.md` - Solusi untuk kasus-kasus ini
+- [../mitigation/01-immediate-fixes.md](../mitigation/01-immediate-fixes.md) - Solusi untuk kasus-kasus ini
 - `../rust-engine/` - Solusi jangka panjang

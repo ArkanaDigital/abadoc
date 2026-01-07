@@ -663,5 +663,5 @@ impl ETLMonitor {
 - ✅ Ready untuk Fase 3
 
 Lihat dokumentasi berikutnya:
-- `02-phased-approach.md` - Overview semua fase
-- `05-testing-plan.md` - Testing untuk ETL
+- [02-phased-approach.md](02-phased-approach.md) - Overview semua fase
+- [05-testing-plan.md](05-testing-plan.md) - Testing untuk ETL

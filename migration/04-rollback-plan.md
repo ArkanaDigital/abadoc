@@ -27,5 +27,5 @@ Dokumen ini menjelaskan comprehensive rollback plan untuk setiap fase migrasi.
 - Ensure zero data loss
 
 Lihat dokumentasi berikutnya:
-- `05-testing-plan.md` - Testing plan
-- `02-phased-approach.md` - Phased approach
+- [05-testing-plan.md](05-testing-plan.md) - Testing plan
+- [02-phased-approach.md](02-phased-approach.md) - Phased approach

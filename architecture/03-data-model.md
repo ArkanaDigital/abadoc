@@ -311,5 +311,5 @@ price_unit_redeem = Monetary
    - Link to order line dengan type
 
 Lihat dokumentasi berikutnya:
-- `04-integration-points.md` - Titik integrasi
+- [04-integration-points.md](04-integration-points.md) - Titik integrasi
 - `../flows/` - Flow proses

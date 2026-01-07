@@ -46,8 +46,8 @@ Queue system terintegrasi untuk:
 - Sync operations
 - Reporting generation
 
-Lihat detail di: `07-queue-architecture.md`
+Lihat detail di: [07-queue-architecture.md](07-queue-architecture.md)
 
 Lihat dokumentasi berikutnya:
-- `07-queue-architecture.md` - Queue system dengan pgnotify
-- `04-integration-flow.md` - Detail integration flow
+- [07-queue-architecture.md](07-queue-architecture.md) - Queue system dengan pgnotify
+- [04-integration-flow.md](04-integration-flow.md) - Detail integration flow
