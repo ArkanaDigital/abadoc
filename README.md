@@ -27,22 +27,39 @@ Dokumentasi ini dibagi menjadi beberapa bagian untuk memudahkan navigasi dan pem
 - `issues/07-code-analysis-summary.md` - **Ringkasan analisa code dan pattern**
 
 ### 4. Mitigasi dan Perbaikan
-- `mitigation/01-immediate-fixes.md` - Perbaikan jangka pendek
+- `mitigation/01-immediate-fixes.md` - Quick fixes yang bisa dilakukan segera
 - `mitigation/06-phase1-detailed-fixes.md` - **Detail lengkap issue analysis dan fixes untuk Fase 1**
+  - Issue 1: Point Balance Inconsistency (P0)
+  - Issue 2: FEFO Race Condition (P0)
+  - Issue 3: Membership Mismatch (P0)
+  - Issue 4: Discount Race Condition (P1)
+  - Issue 5: Discount Accumulation Error (P1)
+  - Issue 6: Offline/Online Sync (P1)
 - `mitigation/07-potential-future-issues.md` - **Potensi issue kedepannya dan prevention strategy**
+  - Scalability issues, Data growth issues, Business logic issues
+  - Integration issues, Security issues, Code quality issues, Operational issues
 - `mitigation/02-data-validation.md` - Validasi data
 - `mitigation/03-transaction-safety.md` - Keamanan transaksi
 - `mitigation/04-error-handling.md` - Penanganan error
 - `mitigation/05-testing-strategy.md` - Strategi testing
 
 ### 5. Rust Engine Plan
-- `rust-engine/01-overview.md` - Overview Rust engine
-- `rust-engine/02-architecture.md` - Arsitektur Rust engine
+- `rust-engine/01-overview.md` - Overview Rust engine dan benefits
+- `rust-engine/02-architecture.md` - Arsitektur detail
 - `rust-engine/03-database-architecture.md` - **Arsitektur database (standalone, sync, reporting)**
 - `rust-engine/04-integration-flow.md` - **Flow integrasi dan sinkronisasi dengan Odoo**
 - `rust-engine/05-reporting-architecture.md` - **Arsitektur reporting detail**
-- `rust-engine/06-integration.md` - Integrasi dengan Odoo
+- `rust-engine/06-integration.md` - Detail integrasi dengan Odoo
 - `rust-engine/07-queue-architecture.md` - **Queue architecture dengan PostgreSQL NOTIFY**
+
+**Key Features**:
+- ✅ Standalone database dengan sync ke Odoo
+- ✅ Hybrid architecture untuk performance dan consistency
+- ✅ Real-time dan batch sync strategies
+- ✅ API Gateway pattern dengan event-driven architecture
+- ✅ ClickHouse untuk analytics, PostgreSQL untuk operational reports
+- ✅ PostgreSQL NOTIFY/LISTEN untuk queue (no external dependencies)
+- ✅ ACID guarantees dan reliable delivery
 
 ### 6. Migrasi
 - `migration/01-migration-strategy.md` - Strategi migrasi
